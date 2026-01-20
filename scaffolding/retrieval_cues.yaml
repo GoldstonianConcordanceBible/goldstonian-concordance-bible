@@ -1,0 +1,11 @@
+retrieval_cues:
+  - cue: "For leadership drift"
+    route_to: ["VOL1-CH23","VOL1-CH24"]
+  - cue: "For generational repair"
+    route_to: ["VOL1-CH25"]
+  - cue: "For canon disputes"
+    route_to: ["VOL1-CH04","VOL1-APP-APOCRYPHA_BRIDGE"]
+  - cue: "For holiness and cleansing"
+    route_to: ["VOL1-CH09","VOL1-CH05"]
+  - cue: "For covenant as legal love"
+    route_to: ["VOL1-CH21"]
