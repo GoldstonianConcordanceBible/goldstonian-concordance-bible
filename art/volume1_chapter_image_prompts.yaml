@@ -1,0 +1,124 @@
+image_style_global:
+  style: "Meta-ultra-hyperrealistic Renaissance oil painting"
+  quality: "museum-quality realism"
+  lighting: "warm candlelit chiaroscuro"
+  palette: "rich golden-brown tones"
+  aspect: "landscape 16:9 (full-bleed)"
+  constraints:
+    - "no modern objects"
+    - "no watermark"
+    - "no legible writing"
+    - "realistic hands/fingers"
+
+chapters:
+  - chapter_id: "VOL1-CH01"
+    title: "The Goldstonian Concordance Method"
+    prompt: "Meta-ultra-hyperrealistic Renaissance oil painting, museum-quality realism, warm candlelit chiaroscuro, rich golden-brown tones, landscape 16:9 (full-bleed). Scene: a grand stone scriptorium with an open Bible on a carved lectern (no readable text). From the pages, thin golden threads branch outward to small symbolic objects arranged in an orderly grid: balanced scales (justice), an oil lamp (worship), a bronze basin with folded linen (holiness), a shepherd’s staff (leadership), a family tree branch (family), a sealed scroll (covenant), and a distant crown silhouette (Messiah thread). The threads converge into a single luminous pathway leading out through an archway into sunrise, symbolizing “read to walk.” Realistic hands/fingers of a scribe gently tracing one thread with a quill, no modern objects, no watermark, no legible writing."
+
+  - chapter_id: "VOL1-CH02"
+    title: "Why Ethiopia’s Canon Matters in a Judeo-Christian Walk"
+    prompt: "Meta-ultra-hyperrealistic Renaissance oil painting, museum-quality realism, warm candlelit chiaroscuro, rich golden-brown tones, landscape 16:9 (full-bleed). Scene: a stone library where an ancient Ethiopian-style manuscript codex rests beside a Torah scroll and a Gospel codex (all with no readable text), arranged in a respectful triangle. A warm lantern glow unites them, while a distant horizon shows a sunrise path. Subtle motifs of preservation: a protective cloth wrap, a sealed clay jar, and a careful scribe’s hands placing the Ethiopian codex on a shelf. Sacred calm, realistic hands/fingers, no modern objects, no watermark, no legible writing."
+
+  - chapter_id: "VOL1-CH03"
+    title: "Canon Maps: Ethiopian vs Protestant vs Catholic vs Orthodox"
+    prompt: "Meta-ultra-hyperrealistic Renaissance oil painting, museum-quality realism, warm candlelit chiaroscuro, rich golden-brown tones, landscape 16:9 (full-bleed). Scene: a long oak table with four distinct stacks of ancient bound books, each stack with different binding style and ribbon markers (no readable titles). Shared volumes between stacks are connected by softly glowing golden ribbons, showing overlap and difference. A parchment “map” layout on the table (no readable text) uses simple geometric shapes and lines. A calm teacher’s hand points to the shared center stack. No modern objects, no watermark, realistic hands/fingers, no legible writing."
+
+  - chapter_id: "VOL1-CH04"
+    title: "How Books Get Left Out"
+    prompt: "Meta-ultra-hyperrealistic Renaissance oil painting, museum-quality realism, warm candlelit chiaroscuro, rich golden-brown tones, landscape 16:9 (full-bleed). Scene: a candlelit council chamber with a large round table. Several scrolls and codices lie open (no readable text). Some are placed on a central cloth (received), while others are gently set into protective cases at the edge (preserved but debated). A set of scales balances two sealed scroll cases, symbolizing discernment. No hostility in faces—only careful deliberation. Realistic hands/fingers, no modern objects, no watermark, no legible writing."
+
+  - chapter_id: "VOL1-CH05"
+    title: "Reading Rules for the Walk"
+    prompt: "Meta-ultra-hyperrealistic Renaissance oil painting, museum-quality realism, warm candlelit chiaroscuro, rich golden-brown tones, landscape 16:9 (full-bleed). Scene: three stations on a stone table: a polished bronze mirror (mirror), a clear water basin with folded linen (water), and a small brazier with a controlled flame (fire). Behind them, a narrow path of light continues through an archway into morning sun, symbolizing obedience. A traveler’s worn sandals rest neatly beside the table, indicating “walk it.” Realistic hands/fingers, no modern objects, no watermark, no readable text."
+
+  - chapter_id: "VOL1-CH06"
+    title: "Volume I Roadmap"
+    prompt: "Meta-ultra-hyperrealistic Renaissance oil painting, museum-quality realism, warm candlelit chiaroscuro, rich golden-brown tones, landscape 16:9 (full-bleed). Scene: a stone hallway with illuminated waypoints carved as simple icons along the wall: seed (Genesis), doorway with lamb-shadow (Exodus), basin/linen (Leviticus), desert stones (Numbers), tablets with heart-glow (Deuteronomy), river stones (Joshua), broken wheel (Judges), barley sheaves (Ruth), harp and sling (Samuel), temple cornerstone and crown (Kings), and a genealogy scroll ribbon (Chronicles). The icons lead toward a sunrise horizon with a faint crown silhouette. No readable text, no modern objects, no watermark."
+
+  - chapter_id: "VOL1-CH07"
+    title: "Genesis"
+    prompt: "Meta-ultra-hyperrealistic Renaissance oil painting, museum-quality realism, warm candlelit chiaroscuro, rich golden-brown tones, landscape 16:9 (full-bleed). Scene: a luminous garden edge giving way to a world beyond: a small sprouting seed glows near a cracked stone where a serpent-shaped shadow slithers away (no graphic details). In the distance, a family lineage “tree” rises with branches of light, symbolizing promise to nations. A gentle river reflects starlight, hinting creation order. Realistic hands/fingers of an unseen scribe resting on a parchment margin, no modern objects, no watermark, no readable text."
+
+  - chapter_id: "VOL1-CH08"
+    title: "Exodus"
+    prompt: "Meta-ultra-hyperrealistic Renaissance oil painting, museum-quality realism, warm candlelit chiaroscuro, rich golden-brown tones, landscape 16:9 (full-bleed). Scene: a dramatic night shoreline with a path opening through towering mist and water, lit by warm torchlight. In the foreground, a lamb-shadow falls across a doorway marked only by subtle red wax seals on wood (no symbols, no readable marks). A people walk forward with calm urgency. A distant pillar of warm light guides them. No modern objects, no watermark, no readable text."
+
+  - chapter_id: "VOL1-CH09"
+    title: "Leviticus"
+    prompt: "Meta-ultra-hyperrealistic Renaissance oil painting, museum-quality realism, warm candlelit chiaroscuro, rich golden-brown tones, landscape 16:9 (full-bleed). Scene: a quiet sanctuary courtyard with a bronze basin of clear water and folded linen in the foreground. An oil lamp burns steadily beside an open scroll (no readable text). A soft circle of light forms around the basin, symbolizing holy nearness and cleansing. No graphic sacrifice imagery. Realistic hands/fingers gently washing, no modern objects, no watermark, no legible writing."
+
+  - chapter_id: "VOL1-CH10"
+    title: "Numbers"
+    prompt: "Meta-ultra-hyperrealistic Renaissance oil painting, museum-quality realism, warm candlelit chiaroscuro, rich golden-brown tones, landscape 16:9 (full-bleed). Scene: a vast wilderness at dusk with scattered stones and a winding caravan trail. In the foreground, a leader’s hand grips a weathered staff; nearby, a compass-like stone marker points forward, symbolizing direction under pressure. Subtle distant storm clouds represent testing; a warm ray of light breaks through onto the path. No modern objects, no watermark, no readable text."
+
+  - chapter_id: "VOL1-CH11"
+    title: "Deuteronomy"
+    prompt: "Meta-ultra-hyperrealistic Renaissance oil painting, museum-quality realism, warm candlelit chiaroscuro, rich golden-brown tones, landscape 16:9 (full-bleed). Scene: a family gathered at a small fire outside a tent at twilight, listening as an elder points to two stone tablets resting on a cloth (no readable text). Above the tablets, a gentle heart-shaped glow forms in the air, symbolizing law written deeper than stone. A child’s hand holds a small rope knot (memory marker). No modern objects, no watermark, realistic hands/fingers."
+
+  - chapter_id: "VOL1-CH12"
+    title: "Joshua"
+    prompt: "Meta-ultra-hyperrealistic Renaissance oil painting, museum-quality realism, warm candlelit chiaroscuro, rich golden-brown tones, landscape 16:9 (full-bleed). Scene: a river crossing at dawn with a line of smooth memorial stones stacked on the bank. A leader raises a simple banner pole (no symbols), pointing toward open land beyond. The water reflects a narrow sunrise path. A calm sense of courage and inheritance. No modern objects, no watermark, no readable text."
+
+  - chapter_id: "VOL1-CH13"
+    title: "Judges"
+    prompt: "Meta-ultra-hyperrealistic Renaissance oil painting, museum-quality realism, warm candlelit chiaroscuro, rich golden-brown tones, landscape 16:9 (full-bleed). Scene: a broken wheel half-buried in dust (cycle), with scattered torn cords and a dim, chaotic crossroads. In the background, faint silhouettes argue at multiple paths, each going “their own way.” A single small lamp on the ground struggles against darkness, symbolizing the need for a righteous center. No graphic violence, no modern objects, no watermark, no readable text."
+
+  - chapter_id: "VOL1-CH14"
+    title: "Ruth"
+    prompt: "Meta-ultra-hyperrealistic Renaissance oil painting, museum-quality realism, warm candlelit chiaroscuro, rich golden-brown tones, landscape 16:9 (full-bleed). Scene: a golden barley field at sunset with warm providential glow; two women walk side-by-side with humble bundles of grain, faces calm and determined. In the midground, a noble landowner figure gestures with protective kindness toward workers, symbolizing integrity and provision. Soft dust motes in sunlight, realistic hands/fingers, natural proportions, no modern objects, no watermark, no readable text."
+
+  - chapter_id: "VOL1-CH15"
+    title: "1 Samuel"
+    prompt: "Meta-ultra-hyperrealistic Renaissance oil painting, museum-quality realism, warm candlelit chiaroscuro, rich golden-brown tones, landscape 16:9 (full-bleed). Scene: two contrasting leadership symbols in one hall: on the left, a polished mirror reflecting an ornate crown (image leadership); on the right, a simple shepherd’s sling and small harp resting near a plain wooden stool (heart leadership forming). A quiet prophet-like figure holds a small horn-shaped vessel (anointing symbol, no text). No modern objects, no watermark, no readable text."
+
+  - chapter_id: "VOL1-CH16"
+    title: "2 Samuel"
+    prompt: "Meta-ultra-hyperrealistic Renaissance oil painting, museum-quality realism, warm candlelit chiaroscuro, rich golden-brown tones, landscape 16:9 (full-bleed). Scene: a candlelit palace corridor with a harp leaning against a pillar and a crown resting on a folded cloak—power set down. In the foreground, a lone kneeling figure’s hands are open in repentance beside a small basin and linen (cleansing). In the distance, a family doorway glows warmly, symbolizing repair and consequence held together. No modern objects, no watermark, no readable text."
+
+  - chapter_id: "VOL1-CH17"
+    title: "1 Kings"
+    prompt: "Meta-ultra-hyperrealistic Renaissance oil painting, museum-quality realism, warm candlelit chiaroscuro, rich golden-brown tones, landscape 16:9 (full-bleed). Scene: a majestic temple construction scene at dawn: masons set a cornerstone while an architect’s compass and blueprint scroll lie nearby (no readable text). A jeweled crown rests on a table beside an oil lamp—wisdom and worship together. But a subtle hairline crack appears in one supporting stone, foreshadowing compromise. No modern objects, no watermark."
+
+  - chapter_id: "VOL1-CH18"
+    title: "2 Kings"
+    prompt: "Meta-ultra-hyperrealistic Renaissance oil painting, museum-quality realism, warm candlelit chiaroscuro, rich golden-brown tones, landscape 16:9 (full-bleed). Scene: a stormy skyline over a great city with a temple silhouette in the distance; a prophet figure stands on a stone wall holding an unlit torch (warning) while a small remnant group shelters under cloaks behind him. In the foreground, cracked scales of justice lie tilted in the dust beside a broken idol statue (no recognizable symbols). A single warm ray of light pierces the clouds onto a small sprouting plant growing from rubble, symbolizing covenant hope after collapse. No readable text, no modern objects, no watermark, realistic hands/fingers."
+
+  - chapter_id: "VOL1-CH19"
+    title: "1 Chronicles"
+    prompt: "Meta-ultra-hyperrealistic Renaissance oil painting, museum-quality realism, warm candlelit chiaroscuro, rich golden-brown tones, landscape 16:9 (full-bleed). Scene: a vast cathedral archive with towering shelves of ancient scrolls and family records (no readable text). In the foreground, a scribe carefully traces a glowing lineage line on a blank parchment with a quill, while a humble shepherd-king figure places a harp and a small coin pouch on the table, symbolizing worship order and provision. Warm beams of light cascade through high windows, illuminating dust motes like sacred memory. Realistic hands/fingers, natural proportions, no modern objects, no watermark, no legible writing."
+
+  - chapter_id: "VOL1-CH20"
+    title: "2 Chronicles"
+    prompt: "Meta-ultra-hyperrealistic Renaissance oil painting, museum-quality realism, warm candlelit chiaroscuro, rich golden-brown tones, landscape 16:9 (full-bleed). Scene: a partially ruined temple courtyard at dawn where workers carefully reset a fallen cornerstone into place. A humble leader kneels in prayer beside a basin of water and a lit oil lamp (cleaning + renewal). In the background, torn banners are being stitched back together, symbolizing reform becoming culture. A soft beam of golden light breaks through clouds onto the restored cornerstone. No readable text, no modern objects, no watermark, realistic hands/fingers, natural proportions."
+
+  - chapter_id: "VOL1-CH21"
+    title: "Covenant as God’s Legal Love"
+    prompt: "Meta-ultra-hyperrealistic Renaissance oil painting, museum-quality realism, warm candlelit chiaroscuro, rich golden-brown tones, landscape 16:9 (full-bleed). Scene: a stone covenant hall resembling an ancient cathedral court. In the center, a massive open scroll of parchment lies on a carved oak table (no readable text), sealed with a deep red wax emblem (no symbols). Two hands—one weathered and humble, one radiant and gentle—meet over the scroll in a solemn covenant clasp (not romantic), symbolizing “legal love.” Surrounding objects form a covenant ring: balanced scales (justice), a golden oil lamp (worship), a water basin with folded linen (holiness/cleansing), a small bag of coins with honest weights (money integrity), and a simple loaf of bread offered to a cloaked widow figure (mercy for the vulnerable). In the background, a faint luminous pathway leads toward a distant crown silhouette under a star-lit beam, symbolizing the Messiah thread. Soft sacred glow, realistic hands/fingers, natural proportions, no modern objects, no watermark, no legible writing."
+
+  - chapter_id: "VOL1-CH22"
+    title: "Be the Shepherd"
+    prompt: "Meta-ultra-hyperrealistic Renaissance oil painting, museum-quality realism, warm candlelit chiaroscuro, rich golden-brown tones, landscape 16:9 (full-bleed). Scene: a shepherd stands at a wooden gate at the entrance of a stone-walled sheepfold at dusk. One hand rests on a sturdy staff, the other repairs a broken fence latch with careful fingers, symbolizing responsible protection. Inside the fold, a few sheep rest safely near a warm lantern glow; outside, distant wolf silhouettes linger in shadow, non-graphic. In the foreground, a bronze basin of clear water and a folded linen cloth symbolize cleansing and holiness; beside it lies a small loaf of bread offered to a cloaked traveler at the edge of the fold, symbolizing mercy without naivety. Above, a single starbeam breaks through clouds and falls on the shepherd’s shoulders, suggesting divine commissioning. Realistic hands/fingers, natural proportions, no modern objects, no watermark, no readable text."
+
+  - chapter_id: "VOL1-CH23"
+    title: "Leadership: Saul vs David vs Solomon as Archetypes"
+    prompt: "Meta-ultra-hyperrealistic Renaissance oil painting, museum-quality realism, warm candlelit chiaroscuro, rich golden-brown tones, landscape 16:9 (full-bleed). Scene: three subtle thrones arranged in a stone hall, each lit differently. Left throne (Saul): ornate crown reflected in a polished mirror, casting a sharp shadow (image). Center throne (David): a simple wooden throne with a harp and a shepherd’s sling laid at its base, warm light on an open hand in prayer (heart). Right throne (Solomon): a gilded architectural blueprint scroll and compass beside a jeweled crown, but a faint hairline crack runs through the stone beneath it (wisdom with drift risk). In the far background, a narrow luminous path leads toward a distant crown silhouette under a starbeam (Messiah thread). No readable text, no modern objects, no watermark, realistic hands/fingers, natural proportions."
+
+  - chapter_id: "VOL1-CH24"
+    title: "Justice: The Seed of Prophetic Fire"
+    prompt: "Meta-ultra-hyperrealistic Renaissance oil painting, museum-quality realism, warm candlelit chiaroscuro, rich golden-brown tones, landscape 16:9 (full-bleed). Scene: a dim stone courtroom-courtyard at night. In the foreground, a small seed sprouting from cracked ground glows faintly with ember-light, symbolizing justice as the seed of prophetic fire. Nearby lie balanced scales tipped slightly but being corrected by a firm, gentle hand. In the midground, a prophet-like figure holds a lantern with a contained flame—not wild—casting warm light on a cloaked widow and a weary laborer receiving a loaf of bread and a small coin pouch (mercy + fair wage). In the background, shadowy figures attempt to exchange coins for influence, but their bribe is exposed by the lantern light. Above, a narrow beam of starlight forms a subtle cross-shaped highlight in the air, hinting at the Messiah thread. No readable text, no modern objects, no watermark, realistic hands/fingers, natural proportions."
+
+  - chapter_id: "VOL1-CH25"
+    title: "Family Systems: Blessing, Trauma, and Generational Repair"
+    prompt: "Meta-ultra-hyperrealistic Renaissance oil painting, museum-quality realism, warm candlelit chiaroscuro, rich golden-brown tones, landscape 16:9 (full-bleed). Scene: a candlelit stone home interior with three generations gathered around a wooden table. In the foreground, a cracked clay vessel is being repaired with visible golden lacquer (kintsugi symbolism of generational repair), while a family tree branch rests beside it. A parent figure gently places a hand on a child’s shoulder in reassurance; an elder offers a small scroll tied with ribbon (no readable text) symbolizing restored memory and identity. In the shadows at the edge of the room, faint broken chains lie on the floor (trauma being broken), while warm light falls on a bowl of water and folded linen (cleansing) and a loaf of bread (provision and mercy). Above, a soft starbeam enters through a small high window, suggesting divine blessing over repair. Realistic hands/fingers, natural proportions, no modern objects, no watermark, no readable text."
+
+  - chapter_id: "VOL1-CH26"
+    title: "Messiah Horizon: How Volume I Sets Up Christ"
+    prompt: "Meta-ultra-hyperrealistic Renaissance oil painting, museum-quality realism, warm candlelit chiaroscuro, rich golden-brown tones, landscape 16:9 (full-bleed). Scene: a long stone corridor lined with symbolic stations from Volume I: a small sprouting seed beside a serpent-cracked stone (Genesis), a lamb-shaped shadow near a doorway marked by red wax seals (Exodus, no symbols), a bronze basin and folded linen (Leviticus), a desert path with scattered stones (Numbers), two stone tablets on a mantle with a glowing heart-shaped light above them (Deuteronomy), a river crossing with a raised memorial of stones (Joshua), a broken cycle wheel in shadow (Judges), a redeemer’s sandal and grain sheaves (Ruth), a simple shepherd’s sling and harp (Samuel), a cracked temple cornerstone and crown (Kings), and a genealogical scroll ribbon (Chronicles, no readable text). At the end of the corridor, a radiant sunrise forms a distant crown silhouette on the horizon beneath a single guiding starbeam, symbolizing Christ as the Messiah Horizon. No readable text, no modern objects, no watermark, realistic hands/fingers, natural proportions."
+
+  - chapter_id: "VOL1-APP-APOCRYPHA_BRIDGE"
+    title: "Appendix — The Apocrypha Bridge"
+    prompt: "Meta-ultra-hyperrealistic Renaissance oil painting, museum-quality realism, warm candlelit chiaroscuro, rich golden-brown tones, landscape 16:9 (full-bleed). Scene: a stone bridge spanning a calm river at twilight. On the near side, an open Bible rests on a carved lectern; on the far side, several ancient manuscripts and scrolls lie respectfully on a cloth. A diverse group of travelers (varied ages and garments, no modern clothing) stand mid-bridge in peaceful dialogue, hands open in welcome. Above the bridge, a single bright star shines through clouds, casting a warm beam that aligns with a simple wooden cross-shaped shadow on the bridge stones (subtle, not overt). No readable text, no watermark, no modern objects, realistic hands/fingers, sacred calm."
+
+  - chapter_id: "VOL1-APP-VOL2_PREVIEW_MAP"
+    title: "Appendix — Volume II Preview Map"
+    prompt: "Meta-ultra-hyperrealistic Renaissance oil painting, museum-quality realism, warm candlelit chiaroscuro, rich golden-brown tones, landscape 16:9 (full-bleed). Scene: a cathedral music loft at dusk with a harp, lyre, and open scrolls (no readable text) arranged beside a simple bread loaf and cup (daily life + worship). A figure kneels with hands open in prayer while warm candlelight illuminates floating dust motes like golden sparks of wisdom. In the background, a narrow path winds through a dark forest toward a sunrise horizon, symbolizing wisdom as a walk. No modern objects, no watermark, realistic hands/fingers, no legible writing."
